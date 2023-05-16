@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags:  quay.io/yourquayaccount/mlops_python_2022_2023:1.0.0,quay.io/yourquayaccount/mlops_python_2022_2023:latest
+          tags:  quay.io/ziadshalak/mlops_python_2022_2023:1.0.0,quay.io/ziadshalak/mlops_python_2022_2023:latest
